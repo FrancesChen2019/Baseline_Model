@@ -1,6 +1,6 @@
 '''
 Description: train embedding & tfidf & autoencoder
-FilePath: /JD_NLP1-text_classfication/embedding.py
+
 '''
 
 
